@@ -15,14 +15,14 @@
   ],
   "homepage": "https://github.com/bithavoc/node-desktop-idle",
   "licenses": [
-   {
-     "type": "MIT",
-     "url": "https://github.com/bithavoc/node-desktop-idle/blob/master/LICENSE"
-   }
+    {
+      "type": "MIT",
+      "url": "https://github.com/bithavoc/node-desktop-idle/blob/master/LICENSE"
+    }
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:bithavoc/node-desktop-idle.git"
+    "url": "git@github.com:joeandaverde/node-desktop-idle.git"
   },
   "os": [
     "windows",
@@ -31,7 +31,7 @@
     "win32"
   ],
   "engines": {
-    "node": ">=7.9.0"
+    "node": ">=10.15.0"
   },
   "devDependencies": {
     "eslint": "^4.6.1",
